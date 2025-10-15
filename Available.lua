@@ -5,7 +5,7 @@ local Available = {
 "gear", "upload", "uploadtocloud", "archive",
 "checkmark", "copy", "refresh", "user", "date", 
 "version", "Egg", "Dog", "Tree", "Money", "weight", "coin", "crown", "Doki", "questionmark", 
-"Lunor"
+"Lunor", "LunorPNG"
 }
  
 return Available
